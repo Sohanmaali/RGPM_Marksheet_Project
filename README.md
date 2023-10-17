@@ -1,2 +1,4 @@
 # RGPM_Marksheet_Project
-this project is Created by java AWT & Swing 
+This project is Created by 
+                          : - java AWT & Swing
+                          : - My sql Database
